@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
   paper: {
     width: "90%",
     height: "80%",
-    backgroundColor: "#03203C",
+    backgroundColor: "#5DA3FA",
     border: "1px solid #282c34",
     borderRadius: 10,
     color: "white",
